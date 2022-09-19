@@ -1,12 +1,11 @@
 package Pratice;
 
-public class Demo {
+public class Sample {
 
-	public static void main(String[] args) 
-	{
+	public static void main(String[] args) {
 		System.out.println("first update");
 		System.out.println("second update from GitX");
-		
+
 	}
 
 }
